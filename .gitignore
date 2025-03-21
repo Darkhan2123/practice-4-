@@ -1,0 +1,8 @@
+package-lock.json
+package.json
+
+manifest.json
+
+node_modules/
+
+venv
